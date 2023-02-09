@@ -1,0 +1,10 @@
+C:\Users\julia\Desktop\Project MEP\G.D.O\Interfaze\bin\Release\Interfaze.exe.config
+C:\Users\julia\Desktop\Project MEP\G.D.O\Interfaze\bin\Release\Interfaze.exe
+C:\Users\julia\Desktop\Project MEP\G.D.O\Interfaze\bin\Release\Interfaze.pdb
+C:\Users\julia\Desktop\Project MEP\G.D.O\Interfaze\obj\Release\Interfaze.csprojAssemblyReference.cache
+C:\Users\julia\Desktop\Project MEP\G.D.O\Interfaze\obj\Release\Interfaze.Form1.resources
+C:\Users\julia\Desktop\Project MEP\G.D.O\Interfaze\obj\Release\Interfaze.Properties.Resources.resources
+C:\Users\julia\Desktop\Project MEP\G.D.O\Interfaze\obj\Release\Interfaze.csproj.GenerateResource.cache
+C:\Users\julia\Desktop\Project MEP\G.D.O\Interfaze\obj\Release\Interfaze.csproj.CoreCompileInputs.cache
+C:\Users\julia\Desktop\Project MEP\G.D.O\Interfaze\obj\Release\Interfaze.exe
+C:\Users\julia\Desktop\Project MEP\G.D.O\Interfaze\obj\Release\Interfaze.pdb

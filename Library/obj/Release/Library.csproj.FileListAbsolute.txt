@@ -1,0 +1,10 @@
+C:\Users\julia\Desktop\Project MEP\G.D.O\Library\bin\Release\Library.exe.config
+C:\Users\julia\Desktop\Project MEP\G.D.O\Library\bin\Release\Library.exe
+C:\Users\julia\Desktop\Project MEP\G.D.O\Library\bin\Release\Library.pdb
+C:\Users\julia\Desktop\Project MEP\G.D.O\Library\bin\Release\Newtonsoft.Json.dll
+C:\Users\julia\Desktop\Project MEP\G.D.O\Library\bin\Release\Newtonsoft.Json.xml
+C:\Users\julia\Desktop\Project MEP\G.D.O\Library\obj\Release\Library.csprojAssemblyReference.cache
+C:\Users\julia\Desktop\Project MEP\G.D.O\Library\obj\Release\Library.csproj.CoreCompileInputs.cache
+C:\Users\julia\Desktop\Project MEP\G.D.O\Library\obj\Release\Library.csproj.CopyComplete
+C:\Users\julia\Desktop\Project MEP\G.D.O\Library\obj\Release\Library.exe
+C:\Users\julia\Desktop\Project MEP\G.D.O\Library\obj\Release\Library.pdb

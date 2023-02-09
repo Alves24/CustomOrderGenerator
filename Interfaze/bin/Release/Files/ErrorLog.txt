@@ -1,0 +1,4 @@
+No se pudo borrar orden en dropbox (method Delete, ExcelWorker)
+3/25/2021 2:49:31 PMThe process cannot access the file 'C:\Users\julia\Dropbox\alumanta 2014\3631 - MEP FACTURADO - Perez.xlsx' because it is being used by another process.
+No se pudo enviar a Dropbox (method SendToDropbox, ExcelWorker)
+3/29/2021 1:40:50 PMThe file 'C:\Users\julia\Dropbox\alumanta 2014\364 - MEP FACTURADO - Cristina Salas.xlsx' already exists.
