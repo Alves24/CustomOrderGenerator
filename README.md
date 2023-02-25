@@ -1,4 +1,4 @@
-# MEP - Custom application to generates orders for a waterproof paint factory
+# MEP - Custom application to generate orders for a waterproof paint factory
 
 ## About this project
 This program was designed to generate sales orders, save customer information and prices.
