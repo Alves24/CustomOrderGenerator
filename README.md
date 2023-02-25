@@ -8,10 +8,10 @@ It also generates an Excel file to print and archive the orders generated.
 It cannot be used for another use! This app has custom business logic that is not configurable.
 
 ## More details
-OOP based. 
-I don't use a design pattern or SOLID principles, so the code is pretty horrible nowadays...
-Use WinForms for the graphic interface.
-SQLite
+- OOP based. 
+- I don't use a design pattern or SOLID principles, so the code is pretty horrible nowadays...
+- Use WinForms for the graphic interface.
+- SQLite
 
 ## Some images
 
