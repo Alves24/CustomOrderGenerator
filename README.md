@@ -15,5 +15,9 @@ It cannot be used for another use! This app has custom business logic that is no
 
 ## Some images
 
+![](Interfaze/bin/Debug/Images/appPreview1.png)
+
+![](Interfaze/bin/Debug/Images/appPreview2.png)
+
 
 
