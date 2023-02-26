@@ -108,6 +108,7 @@ namespace Engine.DataProcessors
         {
             string numberSeccion, lastOrderPath;
             var FilePaths = GetOrderFilePaths();
+            if (FilePaths == null) return 0;
             int Length = FilePaths.Count;
             int i = 0;
 

@@ -44,7 +44,6 @@ namespace Interface
             this.DashPic_Products_Selected = new System.Windows.Forms.PictureBox();
             this.DashPic_Products_MouseOver = new System.Windows.Forms.PictureBox();
             this.DashPic_Products = new System.Windows.Forms.PictureBox();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.label28 = new System.Windows.Forms.Label();
             this.DashPic_Client = new System.Windows.Forms.PictureBox();
             this.pRightBase = new System.Windows.Forms.Panel();
@@ -192,7 +191,6 @@ namespace Interface
             ((System.ComponentModel.ISupportInitialize)(this.DashPic_Products_Selected)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.DashPic_Products_MouseOver)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.DashPic_Products)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.DashPic_Client)).BeginInit();
             this.pRightBase.SuspendLayout();
             this.pCenter.SuspendLayout();
@@ -232,7 +230,6 @@ namespace Interface
             this.pDash.Controls.Add(this.DashPic_Products_Selected);
             this.pDash.Controls.Add(this.DashPic_Products_MouseOver);
             this.pDash.Controls.Add(this.DashPic_Products);
-            this.pDash.Controls.Add(this.pictureBox1);
             this.pDash.Controls.Add(this.label28);
             this.pDash.Controls.Add(this.DashPic_Client);
             this.pDash.Dock = System.Windows.Forms.DockStyle.Left;
@@ -295,26 +292,15 @@ namespace Interface
             this.DashPic_Products.TabIndex = 10;
             this.DashPic_Products.TabStop = false;
             // 
-            // pictureBox1
-            // 
-            this.pictureBox1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox1.BackgroundImage")));
-            this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox1.Enabled = false;
-            this.pictureBox1.Location = new System.Drawing.Point(52, 15);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(39, 37);
-            this.pictureBox1.TabIndex = 2;
-            this.pictureBox1.TabStop = false;
-            // 
             // label28
             // 
             this.label28.AutoSize = true;
             this.label28.BackColor = System.Drawing.Color.Transparent;
-            this.label28.Font = new System.Drawing.Font("Engravers MT", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label28.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label28.ForeColor = System.Drawing.SystemColors.ActiveBorder;
-            this.label28.Location = new System.Drawing.Point(22, 48);
+            this.label28.Location = new System.Drawing.Point(32, 8);
             this.label28.Name = "label28";
-            this.label28.Size = new System.Drawing.Size(107, 25);
+            this.label28.Size = new System.Drawing.Size(83, 25);
             this.label28.TabIndex = 7;
             this.label28.Text = "G.D.O.";
             this.label28.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -1414,8 +1400,8 @@ namespace Interface
             this.cbxFormaEntrega.FormattingEnabled = true;
             this.cbxFormaEntrega.Items.AddRange(new object[] {
             "FABRICA",
-            "Camion Alumanta",
-            "Camioneta Isuzu",
+            "Camion",
+            "Camioneta",
             "Flete Contratado"});
             this.cbxFormaEntrega.Location = new System.Drawing.Point(48, 574);
             this.cbxFormaEntrega.Name = "cbxFormaEntrega";
@@ -1477,7 +1463,7 @@ namespace Interface
             this.txtVendedor.Name = "txtVendedor";
             this.txtVendedor.Size = new System.Drawing.Size(186, 33);
             this.txtVendedor.TabIndex = 10;
-            this.txtVendedor.Text = "Alumanta";
+            this.txtVendedor.Text = "";
             this.txtVendedor.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // label33
@@ -2088,7 +2074,6 @@ namespace Interface
             ((System.ComponentModel.ISupportInitialize)(this.DashPic_Products_Selected)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.DashPic_Products_MouseOver)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.DashPic_Products)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.DashPic_Client)).EndInit();
             this.pRightBase.ResumeLayout(false);
             this.pCenter.ResumeLayout(false);
@@ -2175,7 +2160,6 @@ namespace Interface
         private System.Windows.Forms.Label label23;
         private System.Windows.Forms.Label label22;
         private System.Windows.Forms.Label label343;
-        private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Label lbl_IVA;
         private System.Windows.Forms.TextBox txtVendedor;
         private System.Windows.Forms.PictureBox CloseApplication2;

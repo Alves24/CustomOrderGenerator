@@ -57,3 +57,32 @@ C:\Users\julia\Desktop\Mep Software\G.D.O\Interfaze\obj\Debug\Interfaze.exe
 C:\Users\julia\Desktop\Mep Software\G.D.O\Interfaze\obj\Debug\Interfaze.pdb
 C:\Users\julia\Desktop\Mep Software\G.D.O\Interfaze\obj\Debug\Interface.csproj.AssemblyReference.cache
 C:\Users\julia\Desktop\Mep Software\G.D.O\Interfaze\obj\Debug\Interface.csproj.SuggestedBindingRedirects.cache
+C:\Users\alves\Desktop\MyRepos\CustomOrderGenerator\Interfaze\bin\Debug\Interfaze.exe.config
+C:\Users\alves\Desktop\MyRepos\CustomOrderGenerator\Interfaze\bin\Debug\Interfaze.exe
+C:\Users\alves\Desktop\MyRepos\CustomOrderGenerator\Interfaze\bin\Debug\Interfaze.pdb
+C:\Users\alves\Desktop\MyRepos\CustomOrderGenerator\Interfaze\bin\Debug\Engine.exe
+C:\Users\alves\Desktop\MyRepos\CustomOrderGenerator\Interfaze\bin\Debug\Library.exe
+C:\Users\alves\Desktop\MyRepos\CustomOrderGenerator\Interfaze\bin\Debug\System.Data.SQLite.dll
+C:\Users\alves\Desktop\MyRepos\CustomOrderGenerator\Interfaze\bin\Debug\EPPlus.dll
+C:\Users\alves\Desktop\MyRepos\CustomOrderGenerator\Interfaze\bin\Debug\Newtonsoft.Json.dll
+C:\Users\alves\Desktop\MyRepos\CustomOrderGenerator\Interfaze\bin\Debug\Dapper.dll
+C:\Users\alves\Desktop\MyRepos\CustomOrderGenerator\Interfaze\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\alves\Desktop\MyRepos\CustomOrderGenerator\Interfaze\bin\Debug\Engine.pdb
+C:\Users\alves\Desktop\MyRepos\CustomOrderGenerator\Interfaze\bin\Debug\Engine.exe.config
+C:\Users\alves\Desktop\MyRepos\CustomOrderGenerator\Interfaze\bin\Debug\Library.pdb
+C:\Users\alves\Desktop\MyRepos\CustomOrderGenerator\Interfaze\bin\Debug\Library.exe.config
+C:\Users\alves\Desktop\MyRepos\CustomOrderGenerator\Interfaze\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\alves\Desktop\MyRepos\CustomOrderGenerator\Interfaze\bin\Debug\System.Data.SQLite.xml
+C:\Users\alves\Desktop\MyRepos\CustomOrderGenerator\Interfaze\bin\Debug\EPPlus.xml
+C:\Users\alves\Desktop\MyRepos\CustomOrderGenerator\Interfaze\bin\Debug\Newtonsoft.Json.xml
+C:\Users\alves\Desktop\MyRepos\CustomOrderGenerator\Interfaze\bin\Debug\Dapper.xml
+C:\Users\alves\Desktop\MyRepos\CustomOrderGenerator\Interfaze\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\alves\Desktop\MyRepos\CustomOrderGenerator\Interfaze\obj\Debug\Interface.csproj.AssemblyReference.cache
+C:\Users\alves\Desktop\MyRepos\CustomOrderGenerator\Interfaze\obj\Debug\Interface.csproj.SuggestedBindingRedirects.cache
+C:\Users\alves\Desktop\MyRepos\CustomOrderGenerator\Interfaze\obj\Debug\Interface.MainForm.resources
+C:\Users\alves\Desktop\MyRepos\CustomOrderGenerator\Interfaze\obj\Debug\Interface.Properties.Resources.resources
+C:\Users\alves\Desktop\MyRepos\CustomOrderGenerator\Interfaze\obj\Debug\Interface.csproj.GenerateResource.cache
+C:\Users\alves\Desktop\MyRepos\CustomOrderGenerator\Interfaze\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\alves\Desktop\MyRepos\CustomOrderGenerator\Interfaze\obj\Debug\Interface.csproj.CopyComplete
+C:\Users\alves\Desktop\MyRepos\CustomOrderGenerator\Interfaze\obj\Debug\Interfaze.exe
+C:\Users\alves\Desktop\MyRepos\CustomOrderGenerator\Interfaze\obj\Debug\Interfaze.pdb
